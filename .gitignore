@@ -1,7 +1,4 @@
-﻿################################################################################
-# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
-################################################################################
-
-/Source Code/.vs/SAOFB-Launcher/v17
-/Source Code/.vs/SAOFB-Launcher/FileContentIndex
-/Source Code/x64/Debug/SAOFB-Launcher.tlog
+﻿*.exe
+x64/
+x86/
+.vs/
